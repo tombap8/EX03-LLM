@@ -1,0 +1,10 @@
+# 가상환경
+.venv/
+env/
+
+# IDE 설정 파일
+.vscode/
+
+# 파이썬 캐시 파일
+__pycache__/
+*.pyc
