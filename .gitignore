@@ -3,6 +3,7 @@
 env/
 # 환경 변수 파일
 .env
+.env.*
 
 # IDE 설정 파일
 .vscode/
